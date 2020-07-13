@@ -1,4 +1,4 @@
-# Qiita�Ŏ����ɒʒm�����l�̃��[�U�[�y�[�W�ɔ�Ԃ�B
+# Qiitaで自分に通知した人のユーザーページに飛ぶやつ。
 
-## �T�v
-https://qiita.com/notifications �������́A�チ�j���[�̒ʒm���ŁA�ʒm�����l�̃A�C�R�����炻�̐l�̃��[�U�[�y�[�W�ɔ�Ԃ��߂̊g���B
+## 概要
+https://qiita.com/notifications もしくは、上メニューの通知欄で、通知した人のアイコンからその人のユーザーページに飛ぶためのChrome拡張。
